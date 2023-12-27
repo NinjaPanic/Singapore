@@ -5,11 +5,14 @@
 <br><br>
 <p align="center">
 <strong>
-Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle Library with :
+Singapore is a Fake BTC Miner written in Python3.
+<br>
+You have to import the PyStyle Library with :
 
 ```bash
   pip3 install pystyle
 ```
+</p>
 <br>
 
 -----
@@ -19,7 +22,6 @@ Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle
 <br><br>
 </strong>
 <img src="https://github.com/NinjaPanic/Images/blob/main/Capture.PNG?raw=true" width="800", height="400">
-</p>
 <br>
 
 -----
