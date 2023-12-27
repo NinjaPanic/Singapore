@@ -33,11 +33,11 @@ Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle
 ### <p align="center">🔥 Features 🔥</p>
 
 <br><br>
-<strong>Check if the wallet contain between 27 and 34characters.</strong>
+<strong> - Check if the wallet contain between 27 and 34 characters</strong>
 <br>
-<strong>Check if the wallet start with 1 or 3.</strong>
+<strong> - Check if the wallet start with 1 or 3</strong>
 <br>
-<strong>Beautiful 🙃</strong>
+<strong> - Beautiful 🙃</strong>
 <br>
 
 -----
