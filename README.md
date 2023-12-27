@@ -1,11 +1,5 @@
 -----
 
-<p align="center">
-<img src="https://github.com/NinjaPanic/Images/blob/main/BTC.png?raw=true", width="500", height="500">
-</p>
-
------
-
 ### <p align="center">💰 Singapore 💰</p>
 
 <br><br>
@@ -16,13 +10,13 @@ Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle
 ```bash
   pip3 install pystyle
 ```
-<br><br>
+<br>
 
 -----
 
 ### <p align="center">👀 ScreenShots 👀</p>
 
-<br>
+<br><br>
 </strong>
 <img src="https://github.com/NinjaPanic/Images/blob/main/Capture.PNG?raw=true" width="800", height="400">
 </p>
@@ -44,7 +38,9 @@ Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle
 
 ### <p align="center">💡 TO DO 💡</p>
 
+<br><br>
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
+<br>
 
 -----
 
@@ -53,7 +49,7 @@ Singapore is a Fake BTC Miner written in Python3. You have to import the PyStyle
 <br><br>
 * ***Please use this program only for educational purposes.***
 * ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
-<br><br>
+<br>
 
 -----
 
