@@ -31,9 +31,7 @@ You have to import the PyStyle Library with :
 <br><br>
 <strong>
 * Check if the wallet contain between 27 and 34 characters
-<br>
 * Check if the wallet start with 1 or 3
-<br>
 * Beautiful 🙃
 </strong>
 <br>
