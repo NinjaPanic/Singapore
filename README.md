@@ -8,6 +8,7 @@
 Singapore is a Fake BTC Miner written in Python3.
 <br>
 You have to import the PyStyle Library with :
+</strong>
 
 ```bash
   pip3 install pystyle
@@ -20,7 +21,6 @@ You have to import the PyStyle Library with :
 ### <p align="center">👀 ScreenShots 👀</p>
 
 <br><br>
-</strong>
 <img src="https://github.com/NinjaPanic/Images/blob/main/Capture.PNG?raw=true" width="800", height="400">
 <br>
 
