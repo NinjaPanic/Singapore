@@ -21,7 +21,7 @@ You have to import the PyStyle Library with :
 ### <p align="center">👀 ScreenShots 👀</p>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/NinjaPanic/Images/main/Capture.PNG" width="800", height="400">
+<img src="https://raw.githubusercontent.com/NinjaPanic/Images/main/Capture.PNG">
 <br>
 
 -----
