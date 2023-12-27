@@ -77,16 +77,17 @@ for h in range(10000):
 
     Wallet = Write.Input("Enter your wallet -> ", Colors.red_to_purple, interval=0.0025)
 
-    if not "0x" in Wallet:
-        print()
-        print(Colorate.Error("Error! Wallet adress incorect!"))
-        
-    else:
+    if Wallet[0] == 1 or 3 and len(Wallet) >= 27 and len(Wallet) <= 34:
         print()
         Write.Print("Valid Wallet adress!",Colors.green_to_blue, interval=0.005)
         a = 1
         i = 2
         sleep(2.5)
+        
+    else:
+        print()
+        print(Colorate.Error("Error! Wallet adress incorect!"))
+        
 
     while i == 2 :
         System.Clear()
