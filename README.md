@@ -29,11 +29,13 @@ You have to import the PyStyle Library with :
 ### <p align="center">🔥 Features 🔥</p>
 
 <br><br>
-<strong>* Check if the wallet contain between 27 and 34 characters</strong>
+<strong>
+* Check if the wallet contain between 27 and 34 characters
 <br>
-<strong>* Check if the wallet start with 1 or 3</strong>
+* Check if the wallet start with 1 or 3
 <br>
-<strong>* Beautiful 🙃</strong>
+* Beautiful 🙃
+</strong>
 <br>
 
 -----
