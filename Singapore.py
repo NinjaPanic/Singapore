@@ -69,7 +69,7 @@ Anime.Fade(Center.Center(BTC),Colors.red_to_green,Colorate.Vertical,interval=0.0
 def random_char(y):
        return ''.join(random.choice(r) for x in range(y))
 
-for h in range(10000):
+while 1 == 1:
     System.Clear()
     print("\n"*2)
     print(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Singapore)))
@@ -93,12 +93,10 @@ for h in range(10000):
         System.Clear()
         while a < 2 :
             d = round(random.uniform(0.00005, 0.0001),5)
-            print (random_char(34), end='')
-            print(Colorate.Color(Colors.red," -> "+str(b)+" BTC",True))
+            print(random_char(34) + Colorate.Color(Colors.red," -> "+str(b)+" BTC",True))
             a = a + d
             sleep(0.04)
-        print (random_char(34), end='')
-        print(Colorate.Color(Colors.green," -> "+str(round(random.uniform(0.00001, 0.01),5))+" BTC",True))
+        print(random_char(34) + Colorate.Color(Colors.green," -> "+str(round(random.uniform(0.00001, 0.01),5))+" BTC",True))
         a = 1
         sleep(3)
         Write.Print("Connect with your wallet!",Colors.green_to_blue, interval=0.005)
