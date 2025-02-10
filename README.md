@@ -5,9 +5,9 @@
 <br><br>
 <p align="center">
 <strong>
-Singapore is a Fake BTC Miner written in Python3.
+Singapore is a Fake BTC Miner written in Python3. You can give me a STAR ⭐ if you like my project.
 <br>
-You have to import the PyStyle Library with :
+You only have to import the PyStyle Library with :
 </strong>
 
 ```bash
