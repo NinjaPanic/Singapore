@@ -63,6 +63,7 @@ h = i = 1
 System.Size(140, 40)
 System.Title("Singapore")
 System.Clear()
+Cursor.HideCursor()
 
 Anime.Fade(Center.Center(BTC),Colors.red_to_green,Colorate.Vertical,interval=0.025,enter=True)
 
@@ -75,11 +76,11 @@ while 1 == 1:
     print(Colorate.Diagonal(Colors.red_to_green, Center.XCenter(Singapore)))
     print("\n"*5)
 
-    Wallet = Write.Input("Enter your wallet -> ", Colors.red_to_purple, interval=0.0025)
+    Wallet = Write.Input("Enter your wallet -> ", Colors.red_to_purple, interval=0.025)
 
     if Wallet[0] == 1 or 3 and len(Wallet) >= 27 and len(Wallet) <= 34:
         print()
-        Write.Print("Valid Wallet adress!",Colors.green_to_blue, interval=0.005)
+        Write.Print("Valid Wallet adress!",Colors.green_to_blue, interval=0.025)
         a = 1
         i = 2
         sleep(2.5)
@@ -99,17 +100,17 @@ while 1 == 1:
         print(random_char(34) + Colorate.Color(Colors.green," -> "+str(round(random.uniform(0.00001, 0.01),5))+" BTC",True))
         a = 1
         sleep(3)
-        Write.Print("Connect with your wallet!",Colors.green_to_blue, interval=0.005)
+        Write.Print("Connect with your wallet!",Colors.green_to_blue, interval=0.025)
         print()
         print()
         sleep(5)
-        Write.Print("Send Bitcoin to your wallet!",Colors.green_to_blue, interval=0.005)
+        Write.Print("Send Bitcoin to your wallet!",Colors.green_to_blue, interval=0.025)
         print()
         print()
         sleep(8)
-        Write.Print("Successful transaction!",Colors.green_to_blue, interval=0.005)
+        Write.Print("Successful transaction!",Colors.green_to_blue, interval=0.025)
         print()
         print()
         sleep(1)
-        Write.Print("Wait for restarting!",Colors.green_to_blue, interval=0.005)
+        Write.Print("Wait for restarting!",Colors.green_to_blue, interval=0.025)
         sleep(12)
