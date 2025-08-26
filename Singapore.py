@@ -76,7 +76,6 @@ while 1 == 1:
     print(Colorate.Vertical(Colors.red_to_green, Center.XCenter(Singapore)))
     print("\n"*3)
     Write.Print("  [>] Singapore has been created by NinjaPanic on Github | https://github.com/NinjaPanic/Singapore", Colors.red_to_green, interval=0.0125)
-    Write.Print("\n  [>] Discord server : https://discord.gg/X9MxZ3JnXy", Colors.red_to_green, interval=0.0125)
     print("\n"*2)
 
     Wallet = Write.Input("  [>] Enter your wallet -> ", Colors.red_to_green, interval=0.025)
